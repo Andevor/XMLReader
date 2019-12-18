@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FileSelectorTest</string>
+    <string name="choose_file">Choose File</string>
+</resources>
